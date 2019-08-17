@@ -1,1 +1,1 @@
-# METIN-Message-Encapsulation-over-TCP-IP-Network-
+# METIN (Message Encapsulation over TCP IP Network)
