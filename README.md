@@ -9,6 +9,7 @@ Project name is METIN (Message Encapsulation over TCP/IP Networks). This project
 - AES256 Cryptology
 ## Simulation Environment
 - UBUNTU 16.04.5 LTS was used by Virtual Machines in this simulation.
+- Uncomment block "#net.ipv4.ip_forward=1" in sysctl.conf for acting VM2 as router. 
 ![](images/SimulationEnvironment.png)
 
 
