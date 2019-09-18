@@ -8,6 +8,6 @@ Project name is METIN (Message Encapsulation over TCP/IP Networks). This project
 - Iptables Firewall
 - AES256 Cryptology
 ## Simulation Environment
-![](images/filename SimulationEnvironment.png)
+![](images/SimulationEnvironment.png)
 
 
