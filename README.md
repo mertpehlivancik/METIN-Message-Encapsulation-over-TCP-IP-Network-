@@ -8,6 +8,7 @@ Project name is METIN (Message Encapsulation over TCP/IP Networks). This project
 - Iptables Firewall
 - AES256 Cryptology
 ## Simulation Environment
+- UBUNTU 16.04.5 LTS was used by Virtual Machines in this simulation.
 ![](images/SimulationEnvironment.png)
 
 
