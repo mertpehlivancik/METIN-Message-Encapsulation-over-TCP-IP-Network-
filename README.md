@@ -13,7 +13,7 @@ Project name is METIN (Message Encapsulation over TCP/IP Networks). This project
 - Uncomment block "#net.ipv4.ip_forward=1" in sysctl.conf for acting VM2 as router. 
 ![](images/SimulationEnvironment.png)
 ## How to Use
--You must install “libssh” library before you start configuration. You can follow the installation here. (www.libssh.org/get-it/)
+- You must install “libssh” library before you start configuration. You can follow the installation here. (www.libssh.org/get-it/)
 - You need port forwarding because your computer as a server for other devices.
 - The 80 port of the modem must be switched on.
 - You must download the METIN source code from GitHub.(https://github.com/metin35)
