@@ -23,5 +23,6 @@ Project name is METIN (Message Encapsulation over TCP/IP Networks). This project
 - You compile and run the “CLIENT” file on the internal network client.
 - When running the client, it will need the server’s IP address and port.
 - After connection was established, you can send command to SSH Server despite firewall blocking.
+- deneme (https://github.com/MertPehlivancik/METIN-Message-Encapsulation-over-TCP-IP-Network-/archive/master.zip)
 
 
